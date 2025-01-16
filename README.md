@@ -8,7 +8,7 @@ Here are some ideas to get you started:
   
 # 💫 About Me:
 🔭 I'm currently pursuing Electronics and Telecommunication Engineering from Savitri Phule Pune University (SPPU)<br>
-🌱 I’m a full stack developer with experience in MERN stack<br>
+🌱 I’m a full stack developer with experience in MERN stack and currently learning Docker<br>
 📫 How to reach me: https://www.linkedin.com/in/khushi-kalankar/ || khushikalankar@gmail.com
 
 
