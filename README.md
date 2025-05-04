@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I'm currently pursuing Electronics and Telecommunication Engineering from Savitri Phule Pune University (SPPU)<br>
 🌱 I’m an aspiring software engineer with experience in MERN stack and currently learning Docker<br>
-📫 How to reach me: https://www.linkedin.com/in/khushi-kalankar/ || khushikalankar@gmail.com
+📫 How to reach me: https://www.linkedin.com/in/khushi-kalankar/ || khushikalankar827@gmail.com
 
 
 ## 🌐 Socials:
